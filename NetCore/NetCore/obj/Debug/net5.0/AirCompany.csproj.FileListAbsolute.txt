@@ -1,0 +1,53 @@
+D:\BSTU stuff\5 семестр 3 курс\EPAM\GitLab\CleanCode\aircompany\NetCore\NetCore\bin\Debug\net5.0\AirCompany.exe
+D:\BSTU stuff\5 семестр 3 курс\EPAM\GitLab\CleanCode\aircompany\NetCore\NetCore\bin\Debug\net5.0\AirCompany.deps.json
+D:\BSTU stuff\5 семестр 3 курс\EPAM\GitLab\CleanCode\aircompany\NetCore\NetCore\bin\Debug\net5.0\AirCompany.runtimeconfig.json
+D:\BSTU stuff\5 семестр 3 курс\EPAM\GitLab\CleanCode\aircompany\NetCore\NetCore\bin\Debug\net5.0\AirCompany.runtimeconfig.dev.json
+D:\BSTU stuff\5 семестр 3 курс\EPAM\GitLab\CleanCode\aircompany\NetCore\NetCore\bin\Debug\net5.0\AirCompany.dll
+D:\BSTU stuff\5 семестр 3 курс\EPAM\GitLab\CleanCode\aircompany\NetCore\NetCore\bin\Debug\net5.0\ref\AirCompany.dll
+D:\BSTU stuff\5 семестр 3 курс\EPAM\GitLab\CleanCode\aircompany\NetCore\NetCore\bin\Debug\net5.0\AirCompany.pdb
+D:\BSTU stuff\5 семестр 3 курс\EPAM\GitLab\CleanCode\aircompany\NetCore\NetCore\bin\Debug\net5.0\nunit.framework.dll
+D:\BSTU stuff\5 семестр 3 курс\EPAM\GitLab\CleanCode\aircompany\NetCore\NetCore\obj\Debug\net5.0\AirCompany.csproj.AssemblyReference.cache
+D:\BSTU stuff\5 семестр 3 курс\EPAM\GitLab\CleanCode\aircompany\NetCore\NetCore\obj\Debug\net5.0\AirCompany.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSTU stuff\5 семестр 3 курс\EPAM\GitLab\CleanCode\aircompany\NetCore\NetCore\obj\Debug\net5.0\AirCompany.AssemblyInfoInputs.cache
+D:\BSTU stuff\5 семестр 3 курс\EPAM\GitLab\CleanCode\aircompany\NetCore\NetCore\obj\Debug\net5.0\AirCompany.AssemblyInfo.cs
+D:\BSTU stuff\5 семестр 3 курс\EPAM\GitLab\CleanCode\aircompany\NetCore\NetCore\obj\Debug\net5.0\AirCompany.csproj.CoreCompileInputs.cache
+D:\BSTU stuff\5 семестр 3 курс\EPAM\GitLab\CleanCode\aircompany\NetCore\NetCore\obj\Debug\net5.0\AirCompany.csproj.CopyComplete
+D:\BSTU stuff\5 семестр 3 курс\EPAM\GitLab\CleanCode\aircompany\NetCore\NetCore\obj\Debug\net5.0\AirCompany.dll
+D:\BSTU stuff\5 семестр 3 курс\EPAM\GitLab\CleanCode\aircompany\NetCore\NetCore\obj\Debug\net5.0\ref\AirCompany.dll
+D:\BSTU stuff\5 семестр 3 курс\EPAM\GitLab\CleanCode\aircompany\NetCore\NetCore\obj\Debug\net5.0\AirCompany.pdb
+D:\BSTU stuff\5 семестр 3 курс\EPAM\GitLab\CleanCode\aircompany\NetCore\NetCore\obj\Debug\net5.0\AirCompany.genruntimeconfig.cache
+D:\3_course\epam\aircompany-master\NetCore\NetCore\bin\Debug\net5.0\AirCompany.exe
+D:\3_course\epam\aircompany-master\NetCore\NetCore\bin\Debug\net5.0\AirCompany.deps.json
+D:\3_course\epam\aircompany-master\NetCore\NetCore\bin\Debug\net5.0\AirCompany.runtimeconfig.json
+D:\3_course\epam\aircompany-master\NetCore\NetCore\bin\Debug\net5.0\AirCompany.runtimeconfig.dev.json
+D:\3_course\epam\aircompany-master\NetCore\NetCore\bin\Debug\net5.0\AirCompany.dll
+D:\3_course\epam\aircompany-master\NetCore\NetCore\bin\Debug\net5.0\ref\AirCompany.dll
+D:\3_course\epam\aircompany-master\NetCore\NetCore\bin\Debug\net5.0\AirCompany.pdb
+D:\3_course\epam\aircompany-master\NetCore\NetCore\bin\Debug\net5.0\nunit.framework.dll
+D:\3_course\epam\aircompany-master\NetCore\NetCore\obj\Debug\net5.0\AirCompany.csprojAssemblyReference.cache
+D:\3_course\epam\aircompany-master\NetCore\NetCore\obj\Debug\net5.0\AirCompany.GeneratedMSBuildEditorConfig.editorconfig
+D:\3_course\epam\aircompany-master\NetCore\NetCore\obj\Debug\net5.0\AirCompany.AssemblyInfoInputs.cache
+D:\3_course\epam\aircompany-master\NetCore\NetCore\obj\Debug\net5.0\AirCompany.AssemblyInfo.cs
+D:\3_course\epam\aircompany-master\NetCore\NetCore\obj\Debug\net5.0\AirCompany.csproj.CoreCompileInputs.cache
+D:\3_course\epam\aircompany-master\NetCore\NetCore\obj\Debug\net5.0\AirCompany.csproj.CopyComplete
+D:\3_course\epam\aircompany-master\NetCore\NetCore\obj\Debug\net5.0\AirCompany.dll
+D:\3_course\epam\aircompany-master\NetCore\NetCore\obj\Debug\net5.0\ref\AirCompany.dll
+D:\3_course\epam\aircompany-master\NetCore\NetCore\obj\Debug\net5.0\AirCompany.pdb
+D:\3_course\epam\aircompany-master\NetCore\NetCore\obj\Debug\net5.0\AirCompany.genruntimeconfig.cache
+D:\3_course\epam\Aircompany\Aircompany\aircompany-master\NetCore\NetCore\bin\Debug\net5.0\AirCompany.exe
+D:\3_course\epam\Aircompany\Aircompany\aircompany-master\NetCore\NetCore\bin\Debug\net5.0\AirCompany.deps.json
+D:\3_course\epam\Aircompany\Aircompany\aircompany-master\NetCore\NetCore\bin\Debug\net5.0\AirCompany.runtimeconfig.json
+D:\3_course\epam\Aircompany\Aircompany\aircompany-master\NetCore\NetCore\bin\Debug\net5.0\AirCompany.runtimeconfig.dev.json
+D:\3_course\epam\Aircompany\Aircompany\aircompany-master\NetCore\NetCore\bin\Debug\net5.0\AirCompany.dll
+D:\3_course\epam\Aircompany\Aircompany\aircompany-master\NetCore\NetCore\bin\Debug\net5.0\ref\AirCompany.dll
+D:\3_course\epam\Aircompany\Aircompany\aircompany-master\NetCore\NetCore\bin\Debug\net5.0\AirCompany.pdb
+D:\3_course\epam\Aircompany\Aircompany\aircompany-master\NetCore\NetCore\bin\Debug\net5.0\nunit.framework.dll
+D:\3_course\epam\Aircompany\Aircompany\aircompany-master\NetCore\NetCore\obj\Debug\net5.0\AirCompany.GeneratedMSBuildEditorConfig.editorconfig
+D:\3_course\epam\Aircompany\Aircompany\aircompany-master\NetCore\NetCore\obj\Debug\net5.0\AirCompany.AssemblyInfoInputs.cache
+D:\3_course\epam\Aircompany\Aircompany\aircompany-master\NetCore\NetCore\obj\Debug\net5.0\AirCompany.AssemblyInfo.cs
+D:\3_course\epam\Aircompany\Aircompany\aircompany-master\NetCore\NetCore\obj\Debug\net5.0\AirCompany.csproj.CoreCompileInputs.cache
+D:\3_course\epam\Aircompany\Aircompany\aircompany-master\NetCore\NetCore\obj\Debug\net5.0\AirCompany.csproj.CopyComplete
+D:\3_course\epam\Aircompany\Aircompany\aircompany-master\NetCore\NetCore\obj\Debug\net5.0\AirCompany.dll
+D:\3_course\epam\Aircompany\Aircompany\aircompany-master\NetCore\NetCore\obj\Debug\net5.0\ref\AirCompany.dll
+D:\3_course\epam\Aircompany\Aircompany\aircompany-master\NetCore\NetCore\obj\Debug\net5.0\AirCompany.pdb
+D:\3_course\epam\Aircompany\Aircompany\aircompany-master\NetCore\NetCore\obj\Debug\net5.0\AirCompany.genruntimeconfig.cache
