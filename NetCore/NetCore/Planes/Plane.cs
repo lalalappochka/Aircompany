@@ -16,6 +16,24 @@ namespace Aircompany.Planes
             MaxFlightDistance = maxFlightDistance;
             MaxLoadCapacity = maxLoadCapacity;
         }
+        public override bool Equals(object obj)
+        {
+            var plane = obj as Plane;
+            return plane != null &&
+                   Model == plane.Model &&
+                   MaxSpeed == plane.MaxSpeed &&
+                   MaxFlightDistance == plane.MaxFlightDistance &&
+                   MaxLoadCapacity == plane.MaxLoadCapacity;
+        }
+        public override int GetHashCode()
+        {
+            var hashCode = -1043886837;
+            hashCode = hashCode * -1521134295 + EqualityComparer<string>.Default.GetHashCode(Model);
+            hashCode = hashCode * -1521134295 + MaxSpeed.GetHashCode();
+            hashCode = hashCode * -1521134295 + MaxFlightDistance.GetHashCode();
+            hashCode = hashCode * -1521134295 + MaxLoadCapacity.GetHashCode();
+            return hashCode;
+        }
 
         public override string ToString()
         {
@@ -27,25 +45,9 @@ namespace Aircompany.Planes
                 '}';
         }
 
-        public override bool Equals(object obj)
-        {
-            var plane = obj as Plane;
-            return plane != null &&
-                   Model == plane.Model &&
-                   MaxSpeed == plane.MaxSpeed &&
-                   MaxFlightDistance == plane.MaxFlightDistance &&
-                   MaxLoadCapacity == plane.MaxLoadCapacity;
-        }
+        
 
-        public override int GetHashCode()
-        {
-            var hashCode = -1043886837;
-            hashCode = hashCode * -1521134295 + EqualityComparer<string>.Default.GetHashCode(Model);
-            hashCode = hashCode * -1521134295 + MaxSpeed.GetHashCode();
-            hashCode = hashCode * -1521134295 + MaxFlightDistance.GetHashCode();
-            hashCode = hashCode * -1521134295 + MaxLoadCapacity.GetHashCode();
-            return hashCode;
-        }
+      
 
     }
 }
